@@ -18,6 +18,7 @@
 ### ✍️ Dev
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" />
+![quote with custom font and color](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=花开花落，岁月如梭。&font-family=Lobster&text-color=crimson)
 
 # great world
 -- 岁月匆匆，唯有爱和美好能够长存。
