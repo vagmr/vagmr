@@ -32,7 +32,7 @@
 
 # great world
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) 
- ![Header]https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=<span style="font-size: 40px;">Hi-i-m-vagmr</span><br><span style="color: #ff9900;">Nice to meet you!</span>
+![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=<span style="font-size: 40px;">Hi-i-m-vagmr</span><br><span style="color: #ff9900;">Nice to meet you!</span>)
 
 
 
