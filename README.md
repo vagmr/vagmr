@@ -31,7 +31,8 @@
 
 
 # great world
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) 
+https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=<span style="font-size: 40px;">Hi-i-m-vagmr</span><br><span style="color: #ff9900;">Nice to meet you!</span>
 
 
 
