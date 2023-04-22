@@ -11,3 +11,5 @@
             alt="photoshop" width="40" height="40" style="margin-right: 5px;" />
         <span style="font-size: 20px;">Photoshop</span>
     </a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
