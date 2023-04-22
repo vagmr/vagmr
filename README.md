@@ -16,8 +16,5 @@
 # 📊 GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark&hide_border=false)<br/>
 ### ✍️ Dev
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![]<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" />
