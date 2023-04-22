@@ -18,8 +18,8 @@
 ### ✍️ my good idea
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 <div style="display:flex;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=pink" alt="Random romantic quote 1" style="margin-right:10px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=dark" alt="Random dark quote" style="margin-right:10px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=pink" alt="Random romantic quote 1" style="margin-right:5px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=dark" alt="Random dark quote" style="margin-right:5px;" />
   <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=light" alt="Random light quote" />
 </div>
 
