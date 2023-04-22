@@ -16,7 +16,7 @@
 # 📊 GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark&hide_border=false)<br/>
 ### ✍️ Dev
-![]<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
+![](<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />)
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" />
 
 # great world
