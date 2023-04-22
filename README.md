@@ -15,3 +15,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jvav](https://img.shields.io/badge/Jvav-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![kotlin](https://img.shields.io/badge/kotlin-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=black) ![css](https://img.shields.io/badge/css-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=green) ![html](https://img.shields.io/badge/html-%232C2D72.svg?style=for-the-badge&logo=dependabot&logoColor=red) ![javascript](https://img.shields.io/badge/javascript-%232C2D72.svg?style=for-the-badge&logo=superuser&logoColor=yellow)
 # 📊 GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark&hide_border=false)<br/>
+### ✍️ Dev
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
