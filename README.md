@@ -18,7 +18,10 @@
 ### ✍️ Dev
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" />
+![quote with italic text and gradient background](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=人生不止眼前的苟且，还有远方的苍茫和你想知道的故乡。&background=linear-gradient(to right, #a1c4fd, #c2e9fb)&font-style=italic)
+
 ![quote with custom font and color](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=花开花落，岁月如梭。&font-family=Lobster&text-color=crimson)
+
 
 # great world
 -- 岁月匆匆，唯有爱和美好能够长存。
