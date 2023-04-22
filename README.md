@@ -17,7 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark&hide_border=false)<br/>
 ### ✍️ my good idea
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" /><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" /><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=pink" alt="Random romantic quote" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink" alt="Random romantic quote" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=pink" alt="Random romantic quote" />
 
 ![quote with custom font and color](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=花开花落，岁月如梭。&font-family=Lobster&text-color=crimson)
 
