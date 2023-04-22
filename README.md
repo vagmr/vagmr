@@ -31,5 +31,5 @@
 
 
 # great world
-- ![图片描述](https://picsum.photos/200)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields)
 
