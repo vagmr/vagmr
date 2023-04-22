@@ -31,7 +31,7 @@
 
 
 # great world
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://badge-generator.github.io/badge.svg?title=Awesome&subtitle=GitHub&colorB=blue" />
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 
 
 
