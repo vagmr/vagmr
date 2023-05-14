@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagmr&show_icons=true&theme=gruvbox&count_private=true&hide=stars,commits,prs,issues,contribs)
 ![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=8&count_private=true)
  # 💻My repos:
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0EDD4C&height=220&section=header&text=vagmr%20world&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer%20plus%20CV%20Engineer&descAlignY=51&descAlign=62 style="vertical-align: bottom;)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0EDD4C&height=220&section=header&text=vagmr%20world&fontSize=50&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer%20plus%20CV%20Engineer&descAlignY=51&descAlign=62)
 # ⚡MY Tools:
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"
         style="text-decoration: none; color:black; display: flex; align-items: center;">
