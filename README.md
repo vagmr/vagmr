@@ -1,8 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Hi-i-am-vagmr&fontSize=35)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### ♻🏧🚮🚰♿🚹🚺🚻🚼🚾⚠🚸⛔🚫🚳🚭🚯🚱🚷🔞💈
-<img class="img" src="res/logo3.png" alt="logo" title="logo">
 
+<img class="img" src="res/logo3.png" alt="logo" title="logo">
+-------------------------------------------------------------------------------------
 <p align="center" class="d-flex justify-content-center align-items-center">
  <img src=https://github-readme-stats.vercel.app/api?username=vagmr&show_icons=true&theme=gruvbox&count_private=true&hide=stars,commits,prs,issues,contribs) />
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=8&count_private=true) />
