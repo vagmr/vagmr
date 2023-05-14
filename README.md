@@ -3,8 +3,8 @@
 ### ♻🏧🚮🚰♿🚹🚺🚻🚼🚾⚠🚸⛔🚫🚳🚭🚯🚱🚷🔞💈
 <img class="img" src="res/logo3.png" alt="logo" title="logo">
 <p align="center" class="d-flex justify-content-center align-items-center">
- <img ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagmr&show_icons=true&theme=gruvbox&count_private=true&hide=stars,commits,prs,issues,contribs) />
-<img ![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=8&count_private=true) />
+ <img src=https://github-readme-stats.vercel.app/api?username=vagmr&show_icons=true&theme=gruvbox&count_private=true&hide=stars,commits,prs,issues,contribs) />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=8&count_private=true) />
  </p>
  
 <h1 align="center" style="font-size:250px">👋 Welcome to My World</h1>
