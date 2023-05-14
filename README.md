@@ -1,4 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Hi-i-am-vagmr&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=570681&height=220&section=header&text=vagmr%20world&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Software%20and%20Web%20Developer&descAlignY=51&descAlign=62)
 ### ♻🏧🚮🚰♿🚹🚺🚻🚼🚾⚠🚸⛔🚫🚳🚭🚯🚱🚷🔞💈
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vagmr&show_icons=true&theme=gruvbox&count_private=true&hide=stars,commits,prs,issues,contribs)
 ![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=8&count_private=true)
