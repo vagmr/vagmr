@@ -45,14 +45,12 @@
 
 
 
-| | | |
-|-|-|-|
-|![quote 1 with border radius](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=家是温暖的港湾，在这里，我们相互倚靠，伴随着欢声笑语，走过人生的每一个阶段。&border-radius=10px)|![quote 2 with border radius](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=音乐是我心中最热烈的激情，跟随它的节奏，我可以释放出全部的活力和激情。&border-radius=10px)|![quote 3 with border radius](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=有时候，孤独是一种美好，它让我们可以静下心来，思考自己和这个世界的意义。&border-radius=10px)|
+
 
 
 # great world
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Va%20gmr&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Va/%20gmr&fontSize=90)
 
 
 
