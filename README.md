@@ -36,7 +36,7 @@
 # 📊 GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark&hide_border=false)<br/>
 ### ✍️ my good idea
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
+<img style="align=center;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 <div style="display:flex;">
   <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=dark" alt="Random dark quote" style="margin-right:15px;" />
   <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=light" alt="Random light quote" />
