@@ -50,7 +50,7 @@
 
 # great world
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Va/%20gmr&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Va/gmr&fontSize=90)
 
 
 
