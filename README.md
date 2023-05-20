@@ -38,7 +38,7 @@
 ### ✍️ my good idea
 <img style="margin : 0 auto;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 <div style="display:flex; margin : 0 auto;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=dark" alt="Random dark quote" style="margin-right:15px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=dark" alt="Random dark quote" style="margin-right:15px; margin-left:50px" />
   <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=light" alt="Random light quote" />
 </div>
 
