@@ -3,7 +3,7 @@
 ### ♻🏧🚮🚰♿🚹🚺🚻🚼🚾⚠🚸⛔🚫🚳🚭🚯🚱🚷🔞💈
 -----------------------------------------------------------------
 
-![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=8&count_private=true)
+![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=6&count_private=true)
  
 <h1 align="center" style="font-size:250px">👋 Welcome to My World</h1>
 <p align="center">Developers with a passion for development</p>
