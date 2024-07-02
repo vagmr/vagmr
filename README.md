@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-280137?style=flat&logo=visual-studio&logoColor=450c91)
 # 📊 GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark)<br/>
 ### ✍️ my good idea
 <img style="margin : 0 300px;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
 <div style="display:block; margin : 0 auto;">
