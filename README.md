@@ -5,39 +5,12 @@
 
 ![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=10&count_private=true)      
         
-        
-          
-            
-          
-          重试
-          
-        
-          
-            
-          
-          错误原因
-        
-        
-        
  
 <h1 align="center" style="font-size:250px">👋 Welcome to My World</h1>
 <p align="center">Developers with a passion for development</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0EDD4C&height=220&section=header&text=vagmr%20world&fontSize=50&animation=fadeIn&fontAlignY=30&desc=%20Software%20and%20Web%20Developer%20plus%20CV%20Engineer&descAlignY=51&descAlign=62)
-        
-        
-          
-            
-          
-          重试
-          
-        
-          
-            
-          
-          错误原因
-        
         
           
 # ⚡MY Skill:
