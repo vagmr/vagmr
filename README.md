@@ -6,10 +6,6 @@
 ![vagmr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vagmr&layout=compact&langs_count=10&count_private=true)      
         
  
-<h1 align="center" style="font-size:250px">👋 Welcome to My World</h1>
-<p align="center">Developers with a passion for development</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0EDD4C&height=220&section=header&text=vagmr%20world&fontSize=50&animation=fadeIn&fontAlignY=30&desc=%20Software%20and%20Web%20Developer%20plus%20CV%20Engineer&descAlignY=51&descAlign=62)
         
           
@@ -38,14 +34,3 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-280137?style=flat&logo=visual-studio&logoColor=450c91)
 # 📊 GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vagmr&theme=dark)<br/>
-### ✍️ my good idea
-<img style="margin : 0 300px;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote" />
-<div style="display:block; margin : 0 auto;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=dark" alt="Random dark quote" style="margin-right:15px; margin-left:50px" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=square&theme=light" alt="Random light quote" />
-</div>
-
-
-# great world
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields) 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Va/gmr&fontSize=90)
